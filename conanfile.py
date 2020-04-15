@@ -1,7 +1,7 @@
 from conans import ConanFile, CMake
 
 class SharedtypesConan(ConanFile):
-    name = "Shared_Types"
+    name = "HeaderOnly"
     version = "trunk"
     license = "nunya.1.0"
     author = "whos.who@corp.com"
